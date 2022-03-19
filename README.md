@@ -13,5 +13,5 @@ npm install
 
 ## Authors
 
-* **Kevin Edward** - *Senior fullstack developer* - [climax1115](https://github.com/climax1115)
+* *Senior fullstack developer* - [climax1115](https://github.com/climax1115)
 
